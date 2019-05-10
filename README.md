@@ -1,1 +1,1 @@
-# MedInfo
+# ANIMATION_BG FOR REACT APP
